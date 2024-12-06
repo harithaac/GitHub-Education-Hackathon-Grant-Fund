@@ -59,19 +59,19 @@ Lambda-Check developed a Haskell audit tool for the command-line interface (CLI)
 **Check out more of HenHack 2024’s top projects [here!](https://www.henhackshackathon.com/henhacks-2024)**
 
 ## Event Photos
-| <img src="GitHub-Education-Hackathon-Grant-Fund-2023/Hackathons_2024/images/HenHacks_P1.jpg" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HenHacks_P1.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Hackers presenting their projects to the judge's panel </b>|
 
-| <img src="GitHub-Education-Hackathon-Grant-Fund-2023/Hackathons_2024/images/HenHacks_P2.jpg" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HenHacks_P2.jpg" width="500" height="auto"> |
 |:--:|
 | <b> One of our winning groups, Type Evolve, with their prizes: iPad Airs! </b>|
 
-| <img src="GitHub-Education-Hackathon-Grant-Fund-2023/Hackathons_2024/images/HenHacks_P3.jpg" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HenHacks_P3.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Our career Expo </b>|
 
-| <img src="GitHub-Education-Hackathon-Grant-Fund-2023/Hackathons_2024/images/HenHacks_P4.jpg" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/HenHacks_P4.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Our HenHacks team! </b>|
 
