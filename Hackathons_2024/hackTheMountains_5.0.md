@@ -1,7 +1,7 @@
 # Hack The Mountains 5.0
 Hack The Mountains 5.0 was a 30-hour virtual and in-person hybrid hackathon where over 7000+ developers, designers, and tech enthusiasts gathered to solve real-world problems using innovative technology. The hackathon aimed to provide an inclusive and collaborative space for both first-time hackers and experienced developers to showcase their creativity, skillset, and passion for solving technical challenges. Our event focused on environmental sustainability, AI, blockchain, and open-source contributions.
 <br>
- - **  Start and End Dates: September 14 - September 16, 2024** 
+ - **Start and End Dates: September 14 - September 16, 2024** 
  - **Marwadi Univeristy Rajkot India**
 
 ## Event Summary
@@ -34,7 +34,7 @@ GitHub played an integral role in Hack The Mountains 5.0. From project managemen
 
 | Registartions |Offline Participants| Projects|
 |---------------:|--------------:|------------:|
-| 7000+ | 310 | 150+ [Projects on Dora Hacks])| 
+| 7000+ | 310 | 150+ [[Projects on Dora Hacks](https://dorahacks.io/org/hackthemountains)]| 
 
 ## Tech Impact / Diversity 
 
@@ -46,9 +46,9 @@ Target Audience: Our hackathon targeted university students, recent graduates, a
 
 Arranging for coffee and late-night refreshments was only possible due to the grant amount.
 
- ###Impact of GitHub Grant:
+### Impact of GitHub Grant:
 
-##How did you use the grant funds?:
+## How did you use the grant funds?:
 
 The GitHub grant funds were pivotal in enhancing the participant experience. We allocated the funds to:
 <br/>
@@ -66,5 +66,5 @@ The grant allowed us to create a more immersive, hands-on hackathon experience. 
 
 
 ## Event Photos
-Check Event Picturs -[HackTheMountains5.9](https://photos.google.com/share/AF1QipPtodW0ljQZCTN7orxcMqSLFfRWTi75J97AL69-j34aVz4cucBgk7f_dc-FOrpwiw?key=cnJSZnNVWnRCNjhYcnlNd3hDNXB6SHFoeWhFbFVn)<br>
+Check Event Picturws -[HackTheMountains5.0](https://photos.google.com/share/AF1QipPtodW0ljQZCTN7orxcMqSLFfRWTi75J97AL69-j34aVz4cucBgk7f_dc-FOrpwiw?key=cnJSZnNVWnRCNjhYcnlNd3hDNXB6SHFoeWhFbFVn)<br>
 
